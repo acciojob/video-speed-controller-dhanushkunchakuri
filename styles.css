@@ -46,3 +46,14 @@
 .player__slider {
   width: 100px;
 }
+.rewind {
+  background: #222;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+}
+.rewind:hover {
+  background: #444;
+}
+
